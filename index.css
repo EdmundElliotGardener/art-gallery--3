@@ -277,7 +277,7 @@ footer .container .socials {
   gap: 0.5rem;
 }
 
-/* Medium devices (landscape tablets, 768px and up) */
+
 @media only screen and (max-width: 768px) {
   .header {
     width: 1275px;
@@ -404,7 +404,7 @@ footer .container .socials {
       "header header right right right right"
       "menu menu menu menu main main"
       "menu menu menu menu footer footer";
-    /* background-color: #2196f3; */
+ 
     padding: 10px;
     margin-inline: auto;
     width: 1110px;
@@ -543,6 +543,6 @@ footer .container .socials {
   }
 }
 
-/* Extra small devices (phones, 600px and down) */
+
 @media only screen and (max-width: 600px) {
 }
